@@ -58,8 +58,3 @@ I specialize in extracting actionable insights from complex datasets and buildin
    npm run dev
    ```
 
-## Contact Information
-- **Email**: [satyamkumarch15@gmail.com](mailto:satyamkumarch15@gmail.com)
-- **LinkedIn**: [satyam-kumar-152840323](https://www.linkedin.com/in/satyam-kumar-152840323/)
-- **GitHub**: [@SatyamKumarCS](https://github.com/SatyamKumarCS)
-
