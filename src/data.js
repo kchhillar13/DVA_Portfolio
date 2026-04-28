@@ -1,17 +1,18 @@
+import avatarImg from './img/image.png'
 const base = import.meta.env.BASE_URL
 
 export const contactInfo = {
   email: "harenderchhoker31@gmail.com",
   phone: "8059686967",
-  linkedin: "https://www.linkedin.com/in/akash-gautam-42ba31307/",
-  github: "https://github.com/Akashgautam25",
+  linkedin: "https://www.linkedin.com/in/harender-chhoker-47a2a8325",
+  github: "https://github.com/Harenderchhoker31",
   resume: "https://drive.google.com/file/d/1ayOjkNwV2cKutZAMME8peDT8tMdasAz3/view?usp=drive_link"
 }
 
 export const profileInfo = {
   name: "Harender Chhoker",
   username: "Harenderchhoker31",
-  avatar: "https://github.com/Akashgautam25.png",
+  avatar: avatarImg,
   bio: "Data analytics enthusiast with strong skills in Python, Excel, Tableau, Looker Studio, and Google Sheets, focused on extracting insights, building dashboards, and solving real-world problems using data.",
   location: "Newton School of Technology, Rishihood University"
 }
@@ -49,48 +50,46 @@ const projects = [
     description: "A comprehensive analysis of Hollywood cinema trends, box office performance, and industry insights.",
     image: `${base}Hollywood.png`,
     tags: ["Tableau", "Data Analytics"],
-    github: "https://github.com/Akashgautam25/HLWD_Stories",
-    live: "https://public.tableau.com/app/profile/akash.gautam1648/viz/HollywoodInsights_ACinematicAnalysis_17773738155830/Dashboard1"
+    github: "https://github.com/Harenderchhoker31/HLWD_Stories",
+    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/HollywoodInsights_ACinematicAnalysis_17773987989360/Dashboard1?publish=yes"
   },
   {
     name: "Washington King County House Sales",
     description: "Analysis of house sales data in King County, Washington, exploring pricing trends and market patterns.",
     image: `${base}HouseSales.png`,
     tags: ["Tableau", "Data Analytics"],
-    github: "https://github.com/Akashgautam25/House_Sales",
-    live: "https://public.tableau.com/app/profile/akash.gautam1648/viz/WashingtonKingCountyHouseSales_17773729100150/KingCountyHouseSales"
-  },
+    github: "https://github.com/Harenderchhoker31/House-Sales",
+    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/WashingtonKingCountyHouseSales_17774040496290/KingCountyHouseSales?publish=yes"},
   {
     name: "Airbnb Analytics Dashboard",
     description: "Interactive dashboard analyzing Airbnb listings, pricing strategies, and booking patterns.",
     image: `${base}AIRBNB.PNG`,
     tags: ["Tableau", "Data Analytics"],
-    github: "https://github.com/Akashgautam25/AIRBNB",
-    live: "https://public.tableau.com/app/profile/akash.gautam1648/viz/Dashboard_17773734697270/Dashboard1"
-  },
+    github: "https://github.com/Harenderchhoker31/AIRBNB",
+    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/Dashboard_17774039058980/Dashboard1?publish=yes"},
   {
-    name: "Netflix Dashboard",
-    description: "Visualization of Netflix content catalog, analyzing genres, ratings, and content distribution.",
+    name: "Airport-Accident-Analysis-Dashboard",
+    description: "Analysis of airport accident data, exploring crash patterns, contributing factors, and aviation safety trends across global incidents.",
     image: `${base}Netflix.png`,
     tags: ["Tableau", "Data Analytics"],
-    github: "https://github.com/Akashgautam25/Netflix_Dashbard",
-    live: "https://public.tableau.com/app/profile/akash.gautam1648/viz/shared/FD7F983JY"
+    github: "https://github.com/Harenderchhoker31/Airport-Accident-Analysis-Dashboard",
+    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/AviationAccidentAnalysis_17773991353200/AVIATIONACCIDENTANALYSIS?publish=yes"
   },
   {
-    name: "OpenSky Network Analysis",
-    description: "Analysis of flight data from OpenSky Network, exploring aviation patterns and air traffic insights.",
+    name: "IPL Key Stats 2008-2025 Dashboard",
+    description: "Analysis of IPL match data from 2008 to 2025, exploring team performances, player statistics, and season-wise cricket insights.",
     image: `${base}Hollywood.png`,
-    tags: ["Python", "Data Analytics"],
-    github: "https://github.com/Akashgautam25/SectionE_G-8_opensky_analysis",
-    live: "#" // Placeholder - update with live link when available
+    tags: ["Tableau", "Data Analytics"],
+    github: "https://github.com/Harenderchhoker31/IPL-Dashboard-2008-2025",
+    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/IPLKeyStats2008-2025_17773983741910/IPL2025Dashboard?publish=yes" // Placeholder - update with live link when available
   },
   {
-    name: "Credit Risk Analysis",
+    name: "Smart-Farming-Analytics-Understanding-Crop-Trends",
     description: "Comprehensive credit risk assessment and analysis using data visualization and statistical methods.",
     image: `${base}CredRisk.png`,
     tags: ["Excel", "Data Analytics"],
-    github: "https://github.com/Akashgautam25/Dva_CredRisk",
-    live: "https://docs.google.com/spreadsheets/d/1HClYa3jQzM4K7MQXSYOt0oCAQIkjJ-28Nw3tb49-xn0/edit?gid=119864571#gid=119864571"
+    github: "https://github.com/Harenderchhoker31/Smart-Farming-Analytics-Understanding-Crop-Trends-through-Tableau",
+    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/AnalysisonFarmingData_17773979718340/Dashboard1?publish=yes"
   },
 ]
 
