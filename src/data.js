@@ -46,12 +46,20 @@ export const skills = [
 
 const projects = [
   {
+    name: "E_G2_OlistDelayLens-Capstone",
+    description: "A visual analytics dashboard analyzing logistics and delivery delays across Brazilian e-commerce orders using the Olist dataset, uncovering regional bottlenecks, seller dispatch inefficiencies, and on-time delivery trends.",
+    image: `${base}cap.png`,
+    tags: ["Python" ,"Jupyter", "Tableau "],
+    github: "https://github.com/Harsith-Panda/E_G2_OlistDelayLens",
+    live: "#"
+  }
+  ,{
     name: "Airport-Accident-Analysis-Dashboard",
     description: "Analysis of airport accident data, exploring crash patterns, contributing factors, and aviation safety trends across global incidents.",
     image: `${base}accident.png`,
     tags: ["Tableau", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/Airport-Accident-Analysis-Dashboard",
-    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/AviationAccidentAnalysis_17773991353200/AVIATIONACCIDENTANALYSIS?publish=yes"
+    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/AviationAccidentAnalysis_17773991353200/AVIATIONACCIDENTANALYSIS?publish=yes"
   },
   {
     name: "IPL Key Stats 2008-2025 Dashboard",
@@ -59,7 +67,7 @@ const projects = [
     image: `${base}ipl.png`,
     tags: ["Tableau", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/IPL-Dashboard-2008-2025",
-    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/IPLKeyStats2008-2025_17773983741910/IPL2025Dashboard?publish=yes" // Placeholder - update with live link when available
+    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/IPLKeyStats2008-2025_17773983741910/IPL2025Dashboard?publish=yes"
   },
   {
     name: "Smart-Farming-Analytics-Understanding-Crop-Trends",
@@ -67,7 +75,7 @@ const projects = [
     image: `${base}agri.png`,
     tags: ["Excel", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/Smart-Farming-Analytics-Understanding-Crop-Trends-through-Tableau",
-    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/AnalysisonFarmingData_17773979718340/Dashboard1?publish=yes"
+    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/AnalysisonFarmingData_17773979718340/Dashboard1?publish=yes"
   }
   ,{
     name: "Hollywood Insights: A Cinematic Analysis",
@@ -75,7 +83,7 @@ const projects = [
     image: `${base}Hollywood.png`,
     tags: ["Tableau", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/HLWD_Stories",
-    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/HollywoodInsights_ACinematicAnalysis_17773987989360/Dashboard1?publish=yes"
+    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/HollywoodInsights_ACinematicAnalysis_17773987989360/Dashboard1?publish=yes"
   },
   {
     name: "Washington King County House Sales",
@@ -83,17 +91,15 @@ const projects = [
     image: `${base}HouseSales.png`,
     tags: ["Tableau", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/House-Sales",
-    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/WashingtonKingCountyHouseSales_17774040496290/KingCountyHouseSales?publish=yes"
-  },
+    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/WashingtonKingCountyHouseSales_17774040496290/KingCountyHouseSales?publish=yes"},
   {
-    name: "E_G2_OlistDelayLens-Capstone",
-    description: "A visual analytics dashboard analyzing logistics and delivery delays across Brazilian e-commerce orders using the Olist dataset, uncovering regional bottlenecks, seller dispatch inefficiencies, and on-time delivery trends.",
-    image: `${base}HouseSales.png`,
-    tags: ["Python" ,"Jupyter", "Tableau "],
-    github: "https://github.com/Harsith-Panda/E_G2_OlistDelayLens",
-    live: "#"
-  },
-
+    name: "Airbnb Analytics Dashboard",
+    description: "Interactive dashboard analyzing Airbnb listings, pricing strategies, and booking patterns.",
+    image: `${base}AIRBNB.PNG`,
+    tags: ["Tableau", "Data Analytics"],
+    github: "https://github.com/Harenderchhoker31/AIRBNB",
+    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/Dashboard_17774039058980/Dashboard1?publish=yes"
+  }
   
 ]
 
