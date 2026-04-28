@@ -2,7 +2,7 @@ const base = import.meta.env.BASE_URL
 
 export const contactInfo = {
   email: "harenderchhoker31@gmail.com",
-  phone: "8077554658",
+  phone: "8059686967",
   linkedin: "https://www.linkedin.com/in/akash-gautam-42ba31307/",
   github: "https://github.com/Akashgautam25",
   resume: "https://drive.google.com/file/d/1ayOjkNwV2cKutZAMME8peDT8tMdasAz3/view?usp=drive_link"
