@@ -46,6 +46,30 @@ export const skills = [
 
 const projects = [
   {
+    name: "Airport-Accident-Analysis-Dashboard",
+    description: "Analysis of airport accident data, exploring crash patterns, contributing factors, and aviation safety trends across global incidents.",
+    image: `${base}Netflix.png`,
+    tags: ["Tableau", "Data Analytics"],
+    github: "https://github.com/Harenderchhoker31/Airport-Accident-Analysis-Dashboard",
+    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/AviationAccidentAnalysis_17773991353200/AVIATIONACCIDENTANALYSIS?publish=yes"
+  },
+  {
+    name: "IPL Key Stats 2008-2025 Dashboard",
+    description: "Analysis of IPL match data from 2008 to 2025, exploring team performances, player statistics, and season-wise cricket insights.",
+    image: `${base}Hollywood.png`,
+    tags: ["Tableau", "Data Analytics"],
+    github: "https://github.com/Harenderchhoker31/IPL-Dashboard-2008-2025",
+    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/IPLKeyStats2008-2025_17773983741910/IPL2025Dashboard?publish=yes" // Placeholder - update with live link when available
+  },
+  {
+    name: "Smart-Farming-Analytics-Understanding-Crop-Trends",
+    description: "Analysis of agricultural data through Tableau, exploring crop yield trends, farming patterns, and smart agriculture insights across regions.",
+    image: `${base}CredRisk.png`,
+    tags: ["Excel", "Data Analytics"],
+    github: "https://github.com/Harenderchhoker31/Smart-Farming-Analytics-Understanding-Crop-Trends-through-Tableau",
+    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/AnalysisonFarmingData_17773979718340/Dashboard1?publish=yes"
+  }
+  ,{
     name: "Hollywood Insights: A Cinematic Analysis",
     description: "A comprehensive analysis of Hollywood cinema trends, box office performance, and industry insights.",
     image: `${base}Hollywood.png`,
@@ -66,31 +90,9 @@ const projects = [
     image: `${base}AIRBNB.PNG`,
     tags: ["Tableau", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/AIRBNB",
-    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/Dashboard_17774039058980/Dashboard1?publish=yes"},
-  {
-    name: "Airport-Accident-Analysis-Dashboard",
-    description: "Analysis of airport accident data, exploring crash patterns, contributing factors, and aviation safety trends across global incidents.",
-    image: `${base}Netflix.png`,
-    tags: ["Tableau", "Data Analytics"],
-    github: "https://github.com/Harenderchhoker31/Airport-Accident-Analysis-Dashboard",
-    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/AviationAccidentAnalysis_17773991353200/AVIATIONACCIDENTANALYSIS?publish=yes"
-  },
-  {
-    name: "IPL Key Stats 2008-2025 Dashboard",
-    description: "Analysis of IPL match data from 2008 to 2025, exploring team performances, player statistics, and season-wise cricket insights.",
-    image: `${base}Hollywood.png`,
-    tags: ["Tableau", "Data Analytics"],
-    github: "https://github.com/Harenderchhoker31/IPL-Dashboard-2008-2025",
-    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/IPLKeyStats2008-2025_17773983741910/IPL2025Dashboard?publish=yes" // Placeholder - update with live link when available
-  },
-  {
-    name: "Smart-Farming-Analytics-Understanding-Crop-Trends",
-    description: "Comprehensive credit risk assessment and analysis using data visualization and statistical methods.",
-    image: `${base}CredRisk.png`,
-    tags: ["Excel", "Data Analytics"],
-    github: "https://github.com/Harenderchhoker31/Smart-Farming-Analytics-Understanding-Crop-Trends-through-Tableau",
-    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/AnalysisonFarmingData_17773979718340/Dashboard1?publish=yes"
-  },
+    live: "public.tableau.com/app/profile/harender.chhoker5218/viz/Dashboard_17774039058980/Dashboard1?publish=yes"
+  }
+  
 ]
 
 export default projects
