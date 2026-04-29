@@ -2,16 +2,16 @@ import avatarImg from './img/image.png'
 const base = import.meta.env.BASE_URL
 
 export const contactInfo = {
-  email: "harenderchhoker31@gmail.com",
-  phone: "8059686967",
+  email: "kchhillar24@gmail.com",
+  phone: "8708512069",
   linkedin: "https://www.linkedin.com/in/harender-chhoker-47a2a8325",
-  github: "https://github.com/Harenderchhoker31",
-  resume: "https://drive.google.com/file/d/1jgaM2eGdRIrHKaEtliyhxaVAWF7Ilbk6/view?usp=drive_link"
+  github: "https://github.com/kchhillar13",
+  resume: "https://drive.google.com/file/d/1UG_SHqSibCEy-A9qG9vKtIg2L8FOdsVe/view?usp=sharing"
 }
 
 export const profileInfo = {
-  name: "Harender Chhoker",
-  username: "Harenderchhoker31",
+  name: "Karan Chhillar",
+  username: "kchhillar13",
   avatar: avatarImg,
   bio: "Data analytics enthusiast with strong skills in Python, Excel, Tableau, Looker Studio, and Google Sheets, focused on extracting insights, building dashboards, and solving real-world problems using data.",
   location: "Newton School of Technology, Rishihood University"
