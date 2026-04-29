@@ -28,12 +28,10 @@ I specialize in extracting actionable insights from complex datasets and buildin
 - **Analytics Tools**: Tableau, Excel, Google Sheets
 
 ## Featured Projects
-- **British Airways Analytics**: Passenger review analysis and insights dashboard.
-- **Credit Card Complaints Analysis**: Comprehensive dashboard highlighting resolution efficiency.
-- **Covid-19 Analytics**: India-specific trend tracking and recovery analysis.
-- **Road Accident Analytics**: Pattern identification and risk factor analysis.
-- **Amazon PrimeVideo Analytics**: Catalog EDA examining genres and ratings.
-- **Real Estate Market Analysis**: Excel-based investment strategy and trend evaluation.
+- **Hollywood Insights**: A comprehensive analysis of Hollywood cinema trends, box office performance, and industry insights.
+- **Smart Farming Analytics**: Analysis of agricultural data through Tableau, exploring crop yield trends, farming patterns, and smart agriculture insights across regions.
+- **IPL Key Stats 2008-2025 Dashboard**: Analysis of IPL match data from 2008 to 2025, exploring team performances, player statistics, and season-wise cricket insights.
+- **Airport Accident Analysis**: Analysis of airport accident data, exploring crash patterns, contributing factors, and aviation safety trends across global incidents.
 
 ## Getting Started
 
