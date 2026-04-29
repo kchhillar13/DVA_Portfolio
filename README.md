@@ -1,10 +1,11 @@
 # Data Analytics & Software Portfolio
 
+**Live Demo:** [https://karan-dva-portfolio.vercel.app](https://karan-dva-portfolio.vercel.app)
 
 Welcome to my portfolio! This project is a modern, responsive web application built with **React** and **Vite**, designed to showcase my expertise in Data Analytics, Python, and Full-Stack Development. The interface is inspired by the sleek and functional design of GitHub.
 
 ## About Me
-**Satyam Kumar**  
+**Karan Chhillar**  
 *Data Analytics Enthusiast | Newton School of Technology, Rishihood University*
 
 I specialize in extracting actionable insights from complex datasets and building interactive dashboards that drive decision-making. My skillset spans from core data tools like **Excel** and **Tableau** to programming with **Python** and full-stack development.
@@ -43,7 +44,7 @@ I specialize in extracting actionable insights from complex datasets and buildin
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SatyamKumarCS/DVA_Portfolio.git
+   git clone https://github.com/kchhillar13/DVA_Portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash

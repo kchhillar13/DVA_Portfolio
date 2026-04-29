@@ -14,7 +14,7 @@ export default function ContributionGraph() {
   }
 
   useEffect(() => {
-    fetch("https://github-contributions-api.deno.dev/SatyamKumarCS.json")
+    fetch("https://github-contributions-api.deno.dev/kchhillar13.json")
       .then(res => res.json())
       .then(res => {
         setData(res)
